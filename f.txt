@@ -1,0 +1,8 @@
++- cet exemple montre un type d'erreur lexicale-+
+program test
+	var a:entier ;
+debut
+
+	! a:=5;
+
+fin

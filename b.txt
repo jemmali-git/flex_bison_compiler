@@ -1,0 +1,10 @@
++- cet exemple transforme un entier en sa valeur absolue -+
+program test
+var a: entier;
+debut
+	lire(a);
+	si (a<0) alors
+		a:=a*-1;
+	finsi
+	ecrire(a);
+fin

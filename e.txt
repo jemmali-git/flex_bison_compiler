@@ -1,0 +1,8 @@
++- cet exemple montre un type d'erreur syntaxique -+
+program test
+
+	va a:entier ;
+debut
+	a:=5;
+fin
+

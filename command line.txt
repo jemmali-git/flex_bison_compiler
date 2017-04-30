@@ -1,0 +1,3 @@
+bison -d -oprogY.cpp prog.y
+flex -i -oprogL.cpp prog.l
+g++ -oprog progL.cpp progY.cpp

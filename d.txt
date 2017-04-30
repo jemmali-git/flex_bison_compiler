@@ -1,0 +1,8 @@
++-cet exemple montre un type d'erreur sémantque ,division par zero, -+
+program test
+var a,b: entier ;
+debut
+	a:=1;
+	b:=a/0;
+	ecrire(b);
+fin

@@ -1,0 +1,14 @@
++- cet exemple montre la conversion de type reel en entier-+
+
+
+program test
+var a: reel ;
+var b: entier;
+Debut
+	a:=10/3;		+- a est de type reel -+
+	ecrire(a);    
+
+	b:=a;		+- conversion de a en entier -+
+	ecrire(b); 
+fin 
+

@@ -1,0 +1,6 @@
++-cet exemple montre un type d'erreur sémantque -+
+program test
+var a: entier ;
+debut
+	b:=5+2;
+fin
